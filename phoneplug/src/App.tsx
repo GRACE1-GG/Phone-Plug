@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Own a gadget Today!
+        Own a gadget Today
       </p>
     </>
   )
